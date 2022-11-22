@@ -1,0 +1,42 @@
+.all {
+    background-color: whitesmoke;
+    padding-left: 70px;
+}
+.row {
+    display: flex;
+}
+
+.heading-1 {
+    font-family: Roboto;
+    font-size: 43px;
+    font-weight: 600;
+    line-height: 52px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+
+.para1 {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #677088;
+}
+
+.btn {
+    background-color: #67CBAB;
+    font-weight: Roboto;
+    color: white;
+    border-radius: 50px;
+    border: none;
+    padding: 05px 17px 05px 17px;
+}
+.data1 {
+    padding-right: 70px;
+}
+.data2 {
+    padding-left: 70px;
+}

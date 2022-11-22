@@ -1,0 +1,30 @@
+/* .all {
+    
+} */
+.btn {
+    font-family: Roboto;
+    background-color: transparent;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #67CBAB;
+}
+.row {
+    display: flex;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.para {
+    margin-top: 100px;
+    color: #677088;
+}
+.data1 {
+    /* padding-top: 70px; */
+    padding-right: 70px;
+}
+.data2 {
+    padding-left: 120px;
+}

@@ -1,0 +1,44 @@
+.container {
+    background-color: whitesmoke;
+    padding-top: 30px;
+}
+.row {
+    margin-top: 50px;
+    display: flex;
+    padding-bottom: 60px;
+}
+.col1 {
+    padding-left: 90px;
+}
+.col2 {
+    padding-left: 90px;
+}
+.heading {
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 43px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.para {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #677088;
+}
+
+.btn {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #67CBAB;
+    border: none;
+}

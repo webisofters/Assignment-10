@@ -1,0 +1,18 @@
+.Navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: whitesmoke;
+}
+
+.navlist {
+    padding-top: 30px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.listItem {
+    padding-left: 30px;
+}

@@ -1,0 +1,40 @@
+.container {
+    background-color: black;
+    padding-top: 70px;
+}
+
+.row {
+    display: flex;
+    padding-bottom: 60px;
+}
+
+.heading {
+    color: white;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0.01em;
+    text-align: left;
+}
+
+.para {
+    color: white;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.para1 {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #888888;
+    padding-bottom: 20px;
+}
